@@ -1,0 +1,129 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden
+}
+.section{
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    margin: 0px;
+}
+.swiper-container1{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+.index{
+    width: 100%;
+    height: 100%;
+    background-color: #ffe3d6;
+}
+.spring{
+    width: 100%;
+    height: 100%;
+    background-color: #f1ffd2;
+}
+.summer{
+    width: 100%;
+    height: 100%;
+    background-color: #e2fdfc;
+}
+.autumn{
+    width: 100%;
+    height: 100%;
+    background-color: #fcb023;
+}
+.winter{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+.swiper-slide{
+
+}
+.container{
+    padding: 5vh 10vw;
+    width: 80vw;
+    height: 90vh;
+    position: relative;
+}
+.container>img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0;
+    display: none;
+}
+.container>.title{
+    width: 50%;
+    overflow: hidden;
+    background-color: black;
+    display: none;
+    font-family: cursive;
+    font-size: 20px;
+    height: 90px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    line-height: 45px;
+    top: 15vh;
+    left: 0;
+}
+.spring .title{
+    background-color: #90cd98;
+}
+.summer .title{
+    background-color: #3a823c;
+}
+.autumn .title{
+    background-color: #6d1f0e;
+}
+.winter .title{
+    background-color: #a8ceeb;
+}
+.container>img.mountian,.container>img.water{
+    width: 100vw;
+    position: absolute;
+    left: 0;
+    height: 100vh;
+    top: 0;
+    display: none;
+}
+.index .text{
+    height: 80vh;
+    top:50%;
+    margin-left: 0;
+    margin-top: -40vh; /* negative half of the height */
+}
+ .text{
+    position: absolute;
+    top: 45%;
+     height: 35vh;
+     margin-top: -20vh;
+
+    width: 70vw;
+    padding: 5vw;
+    font-family: "FangSong";
+    text-align: center;
+    z-index: 1;
+    display: none;
+     margin-left: 10vw;
+}
+ .swiper-container-spring,.swiper-container-summer,.swiper-container-autumn,.swiper-container-winter{
+     width: 100%;
+     height: 100%;
+     overflow: hidden;
+     position: absolute;
+     top: 0;
+     left: 0;
+ }
+ h1{
+     font-family: "Microsoft YaHei";
+ }
+
+
+
+
