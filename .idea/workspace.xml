@@ -3,7 +3,196 @@
   <component name="ChangeListManager">
     <list default="true" id="e95e1750-168a-454b-ade6-8acf5f5492b4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change beforePath="$PROJECT_DIR$/img/container.png" afterPath="$PROJECT_DIR$/img/container.png" />
+      <change beforePath="$PROJECT_DIR$/img/index.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/m1.png" afterPath="$PROJECT_DIR$/img/m1.png" />
+      <change beforePath="$PROJECT_DIR$/img/m2.png" afterPath="$PROJECT_DIR$/img/m2.png" />
+      <change beforePath="$PROJECT_DIR$/img/m3.png" afterPath="$PROJECT_DIR$/img/m3.png" />
+      <change beforePath="$PROJECT_DIR$/img/m4.png" afterPath="$PROJECT_DIR$/img/m4.png" />
+      <change beforePath="$PROJECT_DIR$/img/text1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/text2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/text3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/text4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/w1.png" afterPath="$PROJECT_DIR$/img/w1.png" />
+      <change beforePath="$PROJECT_DIR$/img/w2.png" afterPath="$PROJECT_DIR$/img/w2.png" />
+      <change beforePath="$PROJECT_DIR$/img/w3.png" afterPath="$PROJECT_DIR$/img/w3.png" />
+      <change beforePath="$PROJECT_DIR$/img/w4.png" afterPath="$PROJECT_DIR$/img/w4.png" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.eslintrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/Architecture.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/010-default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/020-navigation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/030-pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/040-pagination-dynamic.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/050-pagination-progress.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/060-pagination-fraction.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/070-pagination-custom.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/080-scrollbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/090-vertical.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/100-space-between.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/110-slides-per-view.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/120-slides-per-view-auto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/130-centered.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/140-centered-auto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/150-freemode.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/160-scroll-container.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/170-slides-per-column.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/180-nested.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/190-grab-cursor.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/200-infinite-loop.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/210-infinite-loop-with-slides-per-group.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/220-effect-fade.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/230-effect-cube.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/240-effect-coverflow.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/250-effect-flip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/260-keyboard-control.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/270-mousewheel-control.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/280-autoplay.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/290-dynamic-slides.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/300-thumbs-gallery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/310-thumbs-gallery-loop.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/320-multiple-swipers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/330-hash-navigation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/340-history.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/350-rtl.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/360-parallax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/370-lazy-load-images.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/380-responsive-breakpoints.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/390-autoheight.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/400-zoom.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/410-virtual-slides.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/420-custom-plugin.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/demos/430-slideable-menu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css" afterPath="$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/package.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/playground/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/scripts/banner.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/scripts/build-config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/scripts/build-js.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/scripts/build-less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/scripts/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/a11y/a11y.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/a11y/a11y.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/autoplay/autoplay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/controller/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/controller/controller.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/breakpoints/getBreakpoint.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/breakpoints/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/breakpoints/setBreakpoint.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/check-overflow/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/classes/addClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/classes/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/classes/removeClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/core-class.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/defaults.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/onClick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/onResize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/onTouchEnd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/onTouchMove.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/events/onTouchStart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/grab-cursor/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/grab-cursor/setGrabCursor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/grab-cursor/unsetGrabCursor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/images/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/images/loadImage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/images/preloadImages.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/loop/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/loop/loopCreate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/loop/loopDestroy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/loop/loopFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/addSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/appendSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/prependSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/removeAllSlides.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/manipulation/removeSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideNext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slidePrev.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideReset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideTo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideToClickedSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideToClosest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/slide/slideToLoop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/transition/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/transition/setTransition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/transition/transitionEnd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/transition/transitionStart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/translate/getTranslate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/translate/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/translate/maxTranslate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/translate/minTranslate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/translate/setTranslate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateActiveIndex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateAutoHeight.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateClickedSlide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateProgress.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateSize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateSlides.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateSlidesClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateSlidesOffset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/core/update/updateSlidesProgress.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-coverflow/effect-coverflow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-coverflow/effect-coverflow.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-cube/effect-cube.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-cube/effect-cube.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-fade/effect-fade.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-fade/effect-fade.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-flip/effect-flip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/effect-flip/effect-flip.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/hash-navigation/hash-navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/history/history.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/keyboard/keyboard.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/lazy/lazy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/lazy/lazy.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/mousewheel/mousewheel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/navigation/navigation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/navigation/navigation.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/pagination/pagination.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/pagination/pagination.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/parallax/parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/scrollbar/scrollbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/scrollbar/scrollbar.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/virtual/virtual.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/zoom/zoom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/components/zoom/zoom.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/browser/browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/device/device.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/observer/observer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/resize/resize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/resize/resize.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/modules/support/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/swiper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/swiper.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/class.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/device.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/dom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/swiper-4.3.2/src/utils/utils.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +203,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
-              <caret line="306" column="35" lean-forward="false" selection-start-line="306" selection-start-column="35" selection-end-line="306" selection-end-column="35" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="482">
+              <caret line="241" column="16" lean-forward="false" selection-start-line="241" selection-start-column="16" selection-end-line="241" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="noise.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/noise.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swiper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/js/swiper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myjs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/myjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -29,19 +243,42 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="872">
-              <caret line="114" column="100" lean-forward="false" selection-start-line="114" selection-start-column="100" selection-end-line="114" selection-end-column="100" />
+            <state relative-caret-position="2413">
+              <caret line="127" column="17" lean-forward="false" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="swiper.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4370">
+              <caret line="230" column="19" lean-forward="true" selection-start-line="230" selection-start-column="19" selection-end-line="230" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swiper.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="11" column="7287" lean-forward="false" selection-start-line="11" selection-start-column="7232" selection-end-line="11" selection-end-column="7287" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/animate.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1251">
-              <caret line="665" column="31" lean-forward="false" selection-start-line="665" selection-start-column="19" selection-end-line="665" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="370">
+              <caret line="1543" column="8" lean-forward="true" selection-start-line="1543" selection-start-column="8" selection-end-line="1543" selection-end-column="8" />
+              <folding>
+                <element signature="e#20200#21007#0" expanded="false" />
+                <element signature="e#21009#21808#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,9 +299,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="package_json" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -72,11 +309,24 @@
     <findStrings>
       <find>\n&quot; +</find>
       <find>&quot;title&quot;</find>
+      <find>bounceInUp water</find>
+      <find>flowershow</find>
+      <find>&lt;div class=&quot;container&quot;&gt;</find>
       <find>bounceInDown</find>
+      <find>.swiper-container-horizontal</find>
+      <find>swiper-container-horizontal</find>
+      <find>.swiper-container-horizontal&gt;.swiper-pagination-bullets</find>
+      <find>fadeInUp</find>
+      <find>fadeIn water</find>
+      <find>.swiper-pagination-bullet</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;,</replace>
       <replace>&quot;animated bounceInLeft title&quot;</replace>
+      <replace>fadeIn water</replace>
+      <replace>fadeIn</replace>
+      <replace>&lt;div class=&quot;container&quot;&gt;&lt;img class=&quot;animated bounceInDown&quot; src=&quot;img/noise.png&quot;&gt;</replace>
+      <replace>fadeInUpwater water</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -97,7 +347,9 @@
         <option value="$PROJECT_DIR$/js/mobile.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/css/animate.css" />
+        <option value="$PROJECT_DIR$/js/myjs.js" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -121,7 +373,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="249" />
+    <option name="x" value="114" />
     <option name="y" value="23" />
     <option name="width" value="1806" />
     <option name="height" value="1057" />
@@ -303,8 +555,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,6 +570,11 @@
             <path>
               <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="font" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -327,15 +582,60 @@
               <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper-4.3.2" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper-4.3.2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper-4.3.2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper-4.3.2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="swiper-4.3.2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
@@ -347,6 +647,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/font" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -386,18 +687,19 @@
       <workItem from="1528715389818" duration="959000" />
       <workItem from="1528717216505" duration="8655000" />
       <workItem from="1528792536615" duration="756000" />
-      <workItem from="1528798960803" duration="19816000" />
+      <workItem from="1528798960803" duration="44588000" />
+      <workItem from="1528890320456" duration="9510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30186000" />
+    <option name="totallyTimeSpent" value="64468000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="249" y="23" width="1806" height="1057" extended-state="0" />
+    <frame x="114" y="23" width="1806" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08786848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15419501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -432,33 +734,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/mobile.js">
+    <entry file="file://$PROJECT_DIR$/js/myjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="1064">
+          <caret line="56" column="59" lean-forward="true" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="2413">
+          <caret line="127" column="17" lean-forward="true" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/hammer.js">
+    <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="4370">
+          <caret line="230" column="19" lean-forward="true" selection-start-line="230" selection-start-column="19" selection-end-line="230" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="11" column="7287" lean-forward="false" selection-start-line="11" selection-start-column="7232" selection-end-line="11" selection-end-column="7287" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27398">
+          <caret line="1506" column="12" lean-forward="false" selection-start-line="1506" selection-start-column="12" selection-end-line="1506" selection-end-column="12" />
+          <folding>
+            <element signature="e#20200#21007#0" expanded="false" />
+            <element signature="e#21009#21808#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,20 +793,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/mobile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/mobile.js" />
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -496,14 +806,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/hammer.js">
+    <entry file="file://$PROJECT_DIR$/js/hammer.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mobile.js" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/hammer.js" />
     <entry file="file://$PROJECT_DIR$/404.html" />
     <entry file="file://$PROJECT_DIR$/css/animations.css" />
     <entry file="file://$PROJECT_DIR$/css/layout.css" />
@@ -516,9 +845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -530,14 +857,7 @@
     <entry file="file://$PROJECT_DIR$/css/layout.css" />
     <entry file="file://$PROJECT_DIR$/css/page.css" />
     <entry file="file://$PROJECT_DIR$/css/reset.css" />
-    <entry file="file://$PROJECT_DIR$/js/hammer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/hammer.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -554,41 +874,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/container.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/img/container.jpg" />
+    <entry file="file://$PROJECT_DIR$/js/mobile.js" />
+    <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="11" column="7287" lean-forward="false" selection-start-line="11" selection-start-column="7232" selection-end-line="11" selection-end-column="7287" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/mobile.js">
+    <entry file="file://$PROJECT_DIR$/img/index.jpg" />
+    <entry file="file://$PROJECT_DIR$/js/myjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="1064">
+          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="872">
-          <caret line="114" column="100" lean-forward="false" selection-start-line="114" selection-start-column="100" selection-end-line="114" selection-end-column="100" />
+        <state relative-caret-position="2413">
+          <caret line="127" column="17" lean-forward="false" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
+    <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/css/swiper.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1251">
-          <caret line="665" column="31" lean-forward="false" selection-start-line="665" selection-start-column="19" selection-end-line="665" selection-end-column="31" />
+        <state relative-caret-position="4370">
+          <caret line="230" column="19" lean-forward="true" selection-start-line="230" selection-start-column="19" selection-end-line="230" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
-          <caret line="306" column="35" lean-forward="false" selection-start-line="306" selection-start-column="35" selection-end-line="306" selection-end-column="35" />
+        <state relative-caret-position="482">
+          <caret line="241" column="16" lean-forward="false" selection-start-line="241" selection-start-column="16" selection-end-line="241" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/noise.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/swiper-4.3.2/dist/js/swiper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="134" column="14" lean-forward="true" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="1543" column="8" lean-forward="true" selection-start-line="1543" selection-start-column="8" selection-end-line="1543" selection-end-column="8" />
           <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#20200#21007#0" expanded="false" />
+            <element signature="e#21009#21808#0" expanded="false" />
           </folding>
         </state>
       </provider>

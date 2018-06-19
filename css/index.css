@@ -1,7 +1,8 @@
 body{
     padding: 0;
     margin: 0;
-    overflow: hidden
+    overflow: hidden;
+    font-size: 14px;
 }
 .section{
     width: 100vw;
@@ -16,31 +17,35 @@ h1{
     overflow: hidden;
     position: relative;
 }
-.index{
+.index,.index1{
     width: 100%;
     height: 100%;
     background-color: #ffe3d6;
 }
-.spring{
+.end{
     width: 100%;
     height: 100%;
-    background-color: #f1ffd2;
 }
-.summer{
-    width: 100%;
-    height: 100%;
-    background-color: #e2fdfc;
-}
-.autumn{
-    width: 100%;
-    height: 100%;
-    background-color: #fcb023;
-}
-.winter{
-    width: 100%;
-    height: 100%;
-    background-color: #ffffff;
-}
+/*.spring{*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-color: #f1ffd2;*/
+/*}*/
+/*.summer{*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-color: #e2fdfc;*/
+/*}*/
+/*.autumn{*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-color: #fcb023;*/
+/*}*/
+/*.winter{*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-color: #ffffff;*/
+/*}*/
 .swiper-slide{
 
 }
@@ -58,45 +63,60 @@ h1{
     display: none;
 }
 .container>.title{
-    width: 50%;
+    width: 37vw;
     overflow: hidden;
     background-color: black;
     display: none;
-    font-family: cursive;
-    font-size: 20px;
-    height: 90px;
+    font-size: 12px;
+    height: 6vh;
     color: white;
-    text-align: center;
+    text-align: left;
     position: absolute;
-    line-height: 45px;
-    top: 15vh;
+    line-height: 16px;
+    font-family: "sans-serif";
+    padding: 1vh 0 0 13vw;
+    top: 13vh;
     left: 0;
 }
 .spring .title{
-    background-color: #90cd98;
+    background-color: #acd48f;
 }
 .summer .title{
-    background-color: #3a823c;
+    background-color: #75893b;
 }
 .autumn .title{
-    background-color: #6d1f0e;
+    background-color: #d0b678;
 }
 .winter .title{
-    background-color: #a8ceeb;
+    background-color: #5aabb9;
 }
-.container>img.mountian,.container>img.water{
+.container>img.mountian,.container>img.water,.container>img.flower,.container>img.people{
     width: 100vw;
     position: absolute;
     left: 0;
     height: 100vh;
-    top: 0;
+    bottom: 0;
     display: none;
 }
-.index .text{
+img.noise{
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    left: 0;
+    opacity: 0.3;
+}
+.end .text{
     height: 80vh;
-    top:50%;
+    top: 50%;
     margin-left: 0;
-    margin-top: -40vh; /* negative half of the height */
+    margin-top: -40vh;
+}
+.index .text,.index1 .text{
+    height: 60vh;
+    top: 50%;
+    margin-left: 0;
+    margin-top: -30vh;
 }
  .text{
     position: absolute;
@@ -106,7 +126,7 @@ h1{
 
     width: 70vw;
     padding: 5vw;
-    font-family: "FangSong";
+     font-family: "sans-serif";
     text-align: center;
     z-index: 1;
     display: none;
@@ -121,7 +141,44 @@ h1{
      left: 0;
  }
  h1{
-     font-family: "Microsoft YaHei";
+     font-size: 18px;
+     font-family: 'YaHei';
+     position: relative;
+     top:-10px;
+ }
+
+@-webkit-keyframes rotate{
+    from{-webkit-transform:rotate(0deg)}
+    to{-webkit-transform:rotate(360deg)}
+}
+@-moz-keyframes rotate{
+    from{-moz-transform:rotate(0deg)}
+    to{-moz-transform:rotate(360deg)}
+}
+@-ms-keyframes rotate{
+    from{-ms-transform:rotate(0deg)}
+    to{-ms-transform:rotate(360deg)}
+}
+@-o-keyframes rotate{
+    from{-o-transform:rotate(0deg)}
+    to{-o-transform:rotate(360deg)}
+}
+.music {
+background: url(../img/button.png) no-repeat;
+     position: absolute;
+     z-index: 10;
+     width: 10vw;
+     height: 10vw;
+     bottom: 32px;
+     left: 45%;
+    background-size: 10vw;
+ }
+.music.active{
+    animation: 9.5s linear 0s normal none infinite rotate;
+    -webkit-animation: 9.5s linear 0s normal none infinite rotate;
+}
+ .music img{
+     width: 100%;
  }
 
 
